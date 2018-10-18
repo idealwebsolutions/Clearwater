@@ -1,0 +1,14 @@
+{
+    "name": "Clearwater",
+    "description": "Custom PHP5 framework",
+    "type": "project",
+    "license": "Unlicensed",
+    "authors": [
+        {
+            "name": "idealwebsolutions",
+            "email": "alex@idealwebsolutions.co"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
